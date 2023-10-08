@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pranavi143
+- 👋 Hi, I’m @Pranavi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on anyone
+
 - 📫 How to reach me boyapranavi5@gmail.com
 
 <!---
